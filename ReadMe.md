@@ -21,9 +21,9 @@ More precisely I fine tuned a GPT3 model on my facebook chat history.
 
  https://www.facebook.com/dyi/?referrer=yfi_settings
 
-![Alt text](images/fb_step1.jpg?raw=true "Title")
+![Alt text](images/fb_step1.jpg?raw=true "FB Download Step1")
 
-![Alt text](images/fb_step2.jpg?raw=true "Title")
+![Alt text](images/fb_step2.jpg?raw=true "FB Download Step2")
 
 
 
@@ -37,4 +37,4 @@ https://beta.openai.com/docs/api-reference/fine-tunes
 
 ### Estimated training prices
 
-<script src="https://gist.github.com/nemesgyadam/775e95092d2f4e249776bbebc0c4581a.js"></script>
+![Alt text](images/prices.png?raw=true "Training Prices")
