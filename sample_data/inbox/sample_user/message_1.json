@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "sample_user"
+    },
+    {
+      "name": "subject"
+    }
+  ],
+  "messages": [
+	{
+      "sender_name": "subject",
+      "timestamp_ms": 1638466000000,
+      "content": "All good here, how about you?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+	{
+      "sender_name": "sample_user",
+      "timestamp_ms": 1638465000000,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+	{
+      "sender_name": "sample_user",
+      "timestamp_ms": 1638464000000,
+      "content": "What's up man?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "sample_user",
+      "timestamp_ms": 1638463000000,
+      "content": "Hello!",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "sample_user",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/sample_user",
+  "magic_words": [
+    
+  ]
+}
