@@ -4,12 +4,26 @@
       "name": "sample_user"
     },
     {
-      "name": "subject"
+      "name": "sample_subject"
     }
   ],
   "messages": [
+    {
+      "sender_name": "sample_subject",
+      "timestamp_ms": 1639467000000,
+      "content": "Still good",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "sample_partner",
+      "timestamp_ms": 1639466000000,
+      "content": "Hi again",
+      "type": "Generic",
+      "is_unsent": false
+    },
 	{
-      "sender_name": "subject",
+      "sender_name": "sample_subject",
       "timestamp_ms": 1638466000000,
       "content": "All good here, how about you?",
       "type": "Generic",
