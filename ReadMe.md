@@ -23,10 +23,13 @@ In this project, I trained a Machine Learning model to mimic my behavior and con
 To obtain your Facebook chat history, visit: [Facebook Data Download](https://www.facebook.com/dyi/?referrer=yfi_settings)
 
 Steps to download:
-![FB Download Step1](images/fb_step1.jpg?raw=true "FB Download Step1")
-![FB Download Step2](images/fb_step2.jpg?raw=true "FB Download Step2")
-![FB Download Step3](images/fb_step3.jpg?raw=true "FB Download Step3")
-![FB Download Step4](images/fb_step4.jpg?raw=true "FB Download Step4")
+
+<img src="images/fb_step1.jpg" alt="FB Download Step1" width="300px"/>
+<img src="images/fb_step2.jpg" alt="FB Download Step2" width="300px"/>
+
+<img src="images/fb_step3.jpg" alt="FB Download Step3" width="300px"/>
+<img src="images/fb_step4.jpg" alt="FB Download Step4" width="300px"/>
+
 
 - Wait for the data prepration (usually takes 10-20 minutes)
 - Download the data
@@ -35,7 +38,7 @@ Steps to download:
 ### Run Parser Notebook
 
 See a comparison of the original Facebook conversation format and the GPT formatted data:
-- ![Sample Data](images/sample_data.jpg?raw=true "Sample Data")
+![Sample Data](images/sample_data.jpg?raw=true "Sample Data")
 
 ### Fine-Tune Your Model
 You can fine tune the model with the following two ways:
